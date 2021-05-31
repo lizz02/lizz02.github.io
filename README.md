@@ -1,6 +1,6 @@
 # Index of Projects 
 
-![Phoenix_in_despair.png]
+![head in hands](Phoenix_in_despair.png)
 
 ## Projects
 - Project 1

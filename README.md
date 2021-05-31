@@ -1,6 +1,6 @@
 # Index of Projects 
 
-![Me trying to code] (phoenix_in_despair.png) 
+![Phoenix_in_despair.png]
 
 ## Projects
 - Project 1

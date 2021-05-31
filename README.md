@@ -1,5 +1,7 @@
 # Index of Projects 
 
+![Me trying to code] (phoenix_in_despair.png) 
+
 ## Projects
 - Project 1
 Whatever it was we did in P1 I'll check later

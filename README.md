@@ -11,10 +11,10 @@
 - [Project 6](https://lizz02.github.io/cit281-p6): Using two classes which inherit from the class "shape", write node.js javascript which can calcuate the perimeter and area of a shape based on an array of its sides' length.
 
 ## CIT281 Labs
-- [Lab 01](https://lizz02.github.io/cit281-lab01)
-- [Lab 02](https://lizz02.github.io/cit281-lab02)
-- [Lab 03](https://lizz02.github.io/cit281-lab03)
-- [Lab 04](https://lizz02.github.io/cit281-lab04)
+- [Lab 01](https://lizz02.github.io/cit281-lab01): Use commands within the terminal, key board shortcuts, and create a node.js javascript file that calculates square roots.  
+- [Lab 02](https://lizz02.github.io/cit281-lab02): Use CLI commands and practice using github and git commands in the terminal.
+- [Lab 03](https://lizz02.github.io/cit281-lab03): Update node.js javascript code to return information from a car object.
+- [Lab 04](https://lizz02.github.io/cit281-lab04): 
 - [Lab 05](https://lizz02.github.io/cit281-lab05)
 - [Lab 06](https://lizz02.github.io/cit281-lab06)
 - [Lab 07](https://lizz02.github.io/cit281-lab07)

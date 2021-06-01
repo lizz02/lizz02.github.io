@@ -3,9 +3,7 @@
 ![head in hands](Phoenix_in_despair.png)
 
 ## Projects
-- Project 1
-Whatever it was we did in P1 I'll check later
-[link]
+- [Project 1](https://lizz02.github.io/cit281-p1): Practice completing tasks using the command line interface and writing non-server node.js code
 - Project 2
 - Project 3
 - Project 4
